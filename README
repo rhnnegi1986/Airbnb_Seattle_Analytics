@@ -1,0 +1,38 @@
+                                                            Business Strategy for AIRBNB Seattle 
+
+
+Introduction
+Airbnb currently is considered as the market leaders when it comes to the question of vaccation rental,lodging, and toursism activities. 
+This project aims at understanding the positive and negative outlook for the Airbnb rental property as well as the host who owns those rental property. This analysis will assist the Airbnb as well as the hosts to improve upon certain shortcomings that the guests have pointed and on the other hand utilize the positive view as the standards for the current as well as for any prospective Airbnb hosts. 
+
+Secondly, this project will be performing an idepth analysis on the rental home types which are preferred by the tourist while booking Airbnb in Seatle area  
+and lastly we will be performing an analysis to understand the earning potential for Airbnb hosts in different time frames and in different parts of Seatle .We will be utilzing the customers comments for understanding amenities pattern, property type for understanding the tourist preferred proprty type when it comes to booking Airbnb vaccation homes in Seatle area.
+
+
+Project Strategy
+
+We will answering three core questions in this project, which are as follow:
+1.What are the key shortcomings\area for improvements that the guests at any Seatle Rental Property have pointed out?
+2.What are the rental property types for the Airbnb Seatle area gets the highest booking ?
+3.What are the time frmaes and area in Seatle that generates highest revenue? 
+
+# this is for Airbnb Seatle data analysis and this work would be one of the outcome of the Udicity data scientist nanodegree project 
+  
+                                   
+Data Gathering 
+
+listings.csv : Dataframe containing information related to AIRBNB listings in the Seattle Area
+reviews.csv : Dataframe containing information related to reviews given by customers for their stay at any AIRBNB Seattle property
+calendar.csv : Dataframe containing information related to the availability for the AIRBNB Seattle property
+
+Python packages used for this project are:
+Pandas,NumPy,matplotlib,wordcloud,nltk,seaborn 
+
+
+Conclusion
+This project leaves us with three main conclusion that might help Airbnb Seattle if taken into consideration:
+. Negative review words such as Lying, questioning, intimidating should be taken into consideration and appropriate actions must be taken 
+. Positive words such as Amazing, Sparkling, Charming,Comforting, and Loving should be taken as words of pride and must be looked as the standards to aim for other hosts
+. Owners for Apartments, Townhouse, and Houses must be reached out in Seatle area and be conviced to start hosting for Airbnb if not already 
+. Appropriate strategy should be made for increasing the rental income in the month of January 
+. Airbnb Seattle should work with the hosts in areas such as Windermere, Westlake, Alki, and Arbor Heights along with the low  performing areas like Atlantic, Adams, West Woodland and Whittier Heights for understanding and working towards revenue stabilizing throughout the Seattle.                                                                          
